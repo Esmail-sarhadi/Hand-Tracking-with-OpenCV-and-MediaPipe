@@ -71,3 +71,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Description
 
 This project showcases real-time hand tracking using OpenCV and MediaPipe. The application detects and tracks hand landmarks, displaying their coordinates and the FPS on the video feed, providing a powerful tool for gesture recognition and other hand-related applications.
+
+<a href="https://nowpayments.io/donation?api_key=REWCYVC-A1AMFK3-QNRS663-PKJSBD2&source=lk_donation&medium=referral" target="_blank">
+     <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
+    </a>
